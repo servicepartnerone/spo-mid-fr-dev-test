@@ -1,6 +1,6 @@
-# SPO recruitment task for mid-level front-end developers
+# SPO recruitment task for mobile/front-end developers
 
-Hello! If you are here then you reached the coding challenge for mid-level front-end developers at SPO! 
+Hello! If you are here then you reached the coding challenge for mobile/front-end developers at SPO! 
 Bellow you will find some description, about the coding challenge that we would like you to complete.
 
 The source code of the solution should be provided as a bunch of files. It is highly recommended to use some build tools (preferably gulp or webpack) and push all the sources to git repository so you will be able to demonstrate also your ability of working with build tools and git itself. Please note that **code quality** is also important for us.
