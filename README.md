@@ -10,7 +10,7 @@ Good luck to you and hope you will enjoy the process while solving this task!
 
 ## Create a photo gallery application
 
-The aim of this exercise is to create a photo gallery application using React & Redux. You can use 'npm mock-json-server' to mock the server data and do the proper API calles. You need to use *REST API* to get the data.
+The aim of this exercise is to create a photo gallery application using React (React Native for mobile) & Redux. You can use 'npm mock-json-server' to mock the server data and do the proper API calles. You need to use *REST API* to get the data.
 
 You should take no more than 4h to complete this task.
 
